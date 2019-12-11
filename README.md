@@ -12,7 +12,7 @@ The tagline can be created by finetuning GPT-2 with a dataset of startup tagline
 
 The ideas generated have been fairly realistic (most are bad, some are good), so there are plans to incorporate these results into a faux startup website similar to https://tiffzhang.com/startup, with a few million permutations of ideas. The value of these ideas depend solely on the reader's interpretation (see [reader-response theory](https://en.wikipedia.org/wiki/Reader-response_criticism)), but hopefully some of these ideas are cohesive enough to serve as inspiration.
 
-For the final project presentation, I will do a live demo to generate startups, and ask the audience to think of a realistic app idea from the generated startups. I'll also present some slides to share my thoughts about how ML ties in with creativity [link](final.pdf).
+For the final project presentation, I will do a live demo to generate startups, and ask the audience to think of a realistic app idea from the generated startups. I'll also present some slides to share my thoughts about how ML ties in with creativity ([slides](final.pdf)).
 
 ## Project Report
 
