@@ -43,7 +43,7 @@ Upload your project report (4 pages) as a pdf with your repository, following th
 
 ## Technical Notes
 
-- The [multi-gpu fork of gpt-2-simple](https://github.com/huntrontrakkr/gpt-2-simple) needs to be installed to train with the 774M model.
+- ~~The [multi-gpu fork of gpt-2-simple](https://github.com/huntrontrakkr/gpt-2-simple) needs to be installed to train with the 774M model.~~ This fork has since been merged to master.
 - I used 4 x Tesla V100 GPUs and 16 GB of RAM on [Vast.ai](https://vast.ai) to train the models. Training will fail with single GPUs or less than 16 GB of RAM. After training, generation can be performed with a single GPU, though 16 GB of RAM is still necessary.
 - The startup tagline and description models are finetuned to a loss of around 0.1, while the larger TechCrunch model is finetuned to a loss of 1.8.
 - I sampled all models with temperature ranges from 0.2 to 2.0 and top-p from 0.1 to 1.0 (higher values translate to more "creativity" in the text) to find the optimal parameters for realistic text generation.
