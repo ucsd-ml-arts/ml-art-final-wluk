@@ -16,7 +16,7 @@ For the final project presentation, I will do a live demo of the interactive sta
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://drive.google.com/open?id=1mgIxwX1VseLyeM9uPSv5GJQgRWNFqtBZ0GKE9d4Qxww).
+![](report.pdf)
 
 ## Model/Data
 
