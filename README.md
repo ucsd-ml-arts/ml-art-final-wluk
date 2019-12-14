@@ -16,7 +16,7 @@ For the final project presentation, I will do a live demo of the interactive sta
 
 ## Project Report
 
-![](report.pdf)
+[Report](report.pdf)
 
 ## Model/Data
 
